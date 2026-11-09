@@ -1,5 +1,5 @@
 """
-ASGI config for proyecto3 project.
+ASGI config for u2_proyecto1 project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 
